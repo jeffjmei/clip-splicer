@@ -1,4 +1,5 @@
 # Clip Splicer
+Clip Splicer is a tool that automatically downloads, transcribes, and extracts topic-relevant clips from long-form video content (like YouTube videos or local recordings). It uses OpenAI’s `whisper` for transcription and semantic search via transformer embeddings to identify meaningful moments.
 
 ## Overview
 1. download YouTube video from url
