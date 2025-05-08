@@ -11,3 +11,7 @@
 ```bash 
 python3 main.py --url "https://www.youtube.com/..." --topic "your-topic"
 ```
+
+```bash
+python main.py --video "downloads/my_video.mp4" --topic "machine learning"
+```
