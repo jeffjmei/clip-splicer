@@ -1,0 +1,13 @@
+# Clip Splicer
+
+## Overview
+1. download YouTube video from url
+2. transcribe video using OpenAI `whisper`
+3. identifies relevant clips
+4. cuts and outputs clips
+
+## Demo
+
+```bash 
+python3 main.py --url "https://www.youtube.com/..." --topic "your-topic"
+```
